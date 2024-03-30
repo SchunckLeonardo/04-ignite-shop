@@ -4,7 +4,8 @@ const nextConfig = {
 
   images: {
     domains: [
-      'files.stripe.com'
+      'files.stripe.com',
+      'https://'
     ]
   }
 };
